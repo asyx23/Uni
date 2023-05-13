@@ -21,11 +21,4 @@ public class Controller {
 
     }
 
-    private void doCommand(String[] command) {
-        switch ((char) command[0]) {
-
-        }
-
-    }
-
 }
